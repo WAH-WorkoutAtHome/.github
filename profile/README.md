@@ -45,4 +45,4 @@ ntar mulainya.........
 
 ---
 
-We’re excited to bring Hayak.AI to life and contribute to a safer world through technology!
+We’re excited to bring WAH to make your workout better and easy
