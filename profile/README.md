@@ -28,7 +28,7 @@
 |--------------------------|------------------------|--------------------------------|
 | A.Irwin Putra Pangesti   | Back-End Web Developer | Universitas Palangka Raya      |
 | Luniko Jama              | Back-End Web Developer | Universitas Palangka Raya      |
-| Meylia Wijayanti         | Front-End Web Developer| Universitas Amikom Purwokerto  |
+| Meylia Wijayanti         | Front-End Web Developer| Universitas Palangka Raya      |
 | Ahsana Azmiara Ahmadiham | Mobile Development     | Universitas Palangka Raya      |
 
 ---
