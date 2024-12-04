@@ -12,7 +12,7 @@
    - Memulai jadwal berdasarkan target yang hendak dicapai user
    - Sesuaikan dengan kebutuhan user untuk konten olahraganya beserta kebutuhan asupan kalori, gizi, protein dll.
 - Konten Olahraga: Calisthenic & Cardio
-   - Video, Artikel dan Gambar menarik tentang website untuk mengajak user Workout At Home
+   - Video, Artikel dan Gambar menarik tentang website untuk mengajak user Workout At Home (Olahraga Dirumah)
 - Kalkulator Gizi (Informasi Kebutuhan Gizi User)
    - User menginputkan BB, TB dan Intensitas olahragannya sebagai data set
    - Kemudian muncul list untuk kebutuhan kalori dengan 4 ketentuan yaitu (Gain Weight, Gain Muscle, Netral dan Lose Weight)
@@ -35,9 +35,9 @@
 
 ## Technology Stack
 
-- **Front-End:** VanilaJS, Webpack, CalendarJS
-- **Back-End:** ExpressJS, HapiJS, GeminiAI API, NodeJS
-- **Database:** Amazon RDS
+- **Front-End:** VanilaJS, Webpack
+- **Back-End:** HapiJS, NodeJS, Gemini API, Google OAuth, Google Calendar API
+- **Hosting & Deploy:** AWS, Niagahoster
 
 ## Getting Started
 
