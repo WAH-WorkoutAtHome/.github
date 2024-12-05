@@ -28,10 +28,10 @@ WAH (**Workout At Home**) adalah aplikasi kesehatan berbasis web yang dirancang 
 
 WAH terdiri dari dua repository utama: 
 
-### 🖥️ **[WorkoutAtHome-web][(https://github.com/your-repo-link)](https://github.com/WAH-WorkoutAtHome/WorkoutAtHome-web)**
+### 🖥️ **[WorkoutAtHome-web][(front-end)](https://github.com/WAH-WorkoutAtHome/WorkoutAtHome-web)**
 Front-end aplikasi yang memberikan pengalaman interaktif dan responsif. Dibangun menggunakan VanillaJS dan Webpack, menampilkan desain antarmuka yang bersih dan ramah pengguna.
 
-### 💾 **[WorkoutAtHome-api][(https://github.com/your-repo-link)](https://github.com/WAH-WorkoutAtHome/WorkoutAtHome-api)**
+### 💾 **[WorkoutAtHome-api][(back-end)](https://github.com/WAH-WorkoutAtHome/WorkoutAtHome-api)**
 Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang cepat dan aman. Termasuk integrasi Google OAuth dan Google Calendar API.
 
 ---
