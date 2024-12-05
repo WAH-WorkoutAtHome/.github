@@ -109,7 +109,3 @@ Kami menyambut kontribusi dari siapa pun! Jika Anda memiliki ide, saran, atau me
 
 ## 🎉 **WAH: Lebih Mudah, Lebih Sehat**
 **Kami bersemangat untuk menghadirkan WAH sebagai solusi kebugaran Anda. Yuk, mulai perjalanan sehat Anda sekarang! 💪**
-
----
-
-Apakah ada bagian lain yang ingin Anda tambahkan atau ubah? 😊
