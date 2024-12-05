@@ -1,48 +1,117 @@
-# WAH (Workout At Home)
+# 🏋️‍♀️ WAH (Workout At Home)
 
-**WAH (Workout At Home)** adalah aplikasi kesehatan yang dirancang untuk membantu individu yang malas atau tidak memiliki dana untuk pergi ke gym agar tetap bisa berolahraga dari rumah. Aplikasi ini menyediakan tips olahraga yang mudah diikuti, fitur AI Chat untuk memberikan panduan langsung, serta kalkulator kalori dan gizi yang disesuaikan dengan data pengguna. Dengan penjadwalan yang terstruktur, WAH membantu pengguna mengikuti program olahraga yang efektif dan terarah demi mencapai kebugaran optimal.
+WAH (**Workout At Home**) adalah aplikasi kesehatan berbasis web yang dirancang untuk membantu individu tetap bugar tanpa harus ke gym. Dengan fitur unggulan seperti tips olahraga berbasis AI, kalkulator kalori dan gizi, serta jadwal olahraga yang disesuaikan, WAH membuat perjalanan kebugaran menjadi lebih mudah, terarah, dan efisien.
 
----
-
-## Project Overview
-
-4 Fitur Utama:
-
- - Penjadwalan Olahraga
-   - Memulai jadwal berdasarkan target yang hendak dicapai user
-   - Sesuaikan dengan kebutuhan user untuk konten olahraganya beserta kebutuhan asupan kalori, gizi, protein dll.
-- Konten Olahraga: Calisthenic & Cardio
-   - Video, Artikel dan Gambar menarik tentang website untuk mengajak user Workout At Home (Olahraga Dirumah)
-- Kalkulator Gizi (Informasi Kebutuhan Gizi User)
-   - User menginputkan BB, TB dan Intensitas olahragannya sebagai data set
-   - Kemudian muncul list untuk kebutuhan kalori dengan 4 ketentuan yaitu (Gain Weight, Gain Muscle, Netral dan Lose Weight)
-   - Ada juga list untuk kebutuhan gizi harian seperti protein harian, toleransi gula harian dll. beserta rekomendasi makanan yang bisa dikonsumsi sesuai dengan ketentuan tersebut.
-- AI Chat untuk Tips Olahraga
-   - User bebas bertanya apa saja dengan AI Chat bot ini
+<img src="./path/to/banner-image.png" alt="WAH Banner" width="100%">
 
 ---
 
-## Team Members
+## 🌟 **Fitur Utama**
 
-| Name                     | Role                   | University                     |
-|--------------------------|------------------------|--------------------------------|
-| A.Irwin Putra Pangesti   | Back-End Web Developer | Universitas Palangka Raya      |
-| Luniko Jama              | Back-End Web Developer | Universitas Palangka Raya      |
-| Meylia Wijayanti         | Front-End Web Developer| Universitas Palangka Raya      |
-| Ahsana Azmiara Ahmadiham | Front-End Web Developer| Universitas Palangka Raya      |
+### 1️⃣ **Penjadwalan Olahraga**
+- Buat jadwal olahraga berdasarkan target pribadi.
+- Sesuaikan konten olahraga dengan kebutuhan kalori, gizi, dan asupan protein.
 
----
+### 2️⃣ **Konten Olahraga: Calisthenic & Cardio**
+- Akses video, artikel, dan gambar yang mendukung olahraga di rumah.
 
-## Technology Stack
+### 3️⃣ **Kalkulator Gizi**
+- Input berat badan (BB), tinggi badan (TB), dan intensitas olahraga.
+- Dapatkan kebutuhan kalori untuk:
+  - **Gain Weight**, **Gain Muscle**, **Neutral**, atau **Lose Weight**.
+- Rekomendasi asupan harian seperti protein, gula, serta daftar makanan.
 
-- **Front-End:** VanilaJS, Webpack
-- **Back-End:** HapiJS, NodeJS, Gemini API, Google OAuth, Google Calendar API
-- **Hosting & Deploy:** AWS, Niagahoster
-
-## Getting Started
-
-ntar mulainya.........
+### 4️⃣ **AI Chat: Tips Olahraga**
+- Berinteraksi dengan chatbot AI untuk mendapatkan panduan olahraga secara real-time.
 
 ---
 
-We’re excited to bring WAH to make your workout better and easy
+## 🔍 **Gambaran Proyek**
+
+WAH terdiri dari dua repository utama: 
+
+### 🖥️ **[WorkoutAtHome-web](https://github.com/your-repo-link)**
+Front-end aplikasi yang memberikan pengalaman interaktif dan responsif. Dibangun menggunakan VanillaJS dan Webpack, menampilkan desain antarmuka yang bersih dan ramah pengguna.
+
+### 💾 **[WorkoutAtHome-api](https://github.com/your-repo-link)**
+Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang cepat dan aman. Termasuk integrasi Google OAuth dan Google Calendar API.
+
+---
+
+## 👩‍💻 **Tech Stack**
+
+### **Front-End:**
+- ![VanillaJS Badge](https://img.shields.io/badge/VanillaJS-F7DF1E?logo=javascript&logoColor=black)
+- ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white)
+
+### **Back-End:**
+- ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+- ![HapiJS Badge](https://img.shields.io/badge/Hapi.js-FF6600?logo=hapi.js&logoColor=white)
+- ![Google OAuth Badge](https://img.shields.io/badge/GoogleOAuth-4285F4?logo=google&logoColor=white)
+- ![Google Calendar API Badge](https://img.shields.io/badge/GoogleCalendarAPI-34A853?logo=google-calendar&logoColor=white)
+
+### **Hosting & Deployment:**
+- ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+- ![Niagahoster Badge](https://img.shields.io/badge/Niagahoster-0073E6?logo=niagahoster&logoColor=white)
+
+---
+
+## 🛠️ **Getting Started**
+
+Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
+
+### **Front-End:**
+1. Clone repository front-end:
+   ```bash
+   git clone https://github.com/your-repo-link/WorkoutAtHome-web.git
+   cd WorkoutAtHome-web
+   ```
+2. Instal dependensi:
+   ```bash
+   npm install
+   ```
+3. Jalankan server lokal:
+   ```bash
+   npm start
+   ```
+
+### **Back-End:**
+1. Clone repository back-end:
+   ```bash
+   git clone https://github.com/your-repo-link/WorkoutAtHome-api.git
+   cd WorkoutAtHome-api
+   ```
+2. Instal dependensi:
+   ```bash
+   npm install
+   ```
+3. Konfigurasi variabel lingkungan (lihat file `.env.example`).
+4. Jalankan server:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 👥 **Tim Kami**
+
+| Nama                     | Peran                   | Universitas                  |
+|--------------------------|------------------------|-----------------------------|
+| A. Irwin Putra Pangesti  | Back-End Web Developer | Universitas Palangka Raya   |
+| Luniko Jama              | Back-End Web Developer | Universitas Palangka Raya   |
+| Meylia Wijayanti         | Front-End Web Developer| Universitas Palangka Raya   |
+| Ahsana Azmiara Ahmadiham | Front-End Web Developer| Universitas Palangka Raya   |
+
+---
+
+## 📣 **Kontribusi**
+Kami menyambut kontribusi dari siapa pun! Jika Anda memiliki ide, saran, atau menemukan bug, silakan ajukan *issue* atau buat *pull request*.
+
+---
+
+## 🎉 **WAH: Lebih Mudah, Lebih Sehat**
+**Kami bersemangat untuk menghadirkan WAH sebagai solusi kebugaran Anda. Yuk, mulai perjalanan sehat Anda sekarang! 💪**
+
+---
+
+Apakah ada bagian lain yang ingin Anda tambahkan atau ubah? 😊
