@@ -2,8 +2,6 @@
 
 WAH (**Workout At Home**) adalah aplikasi kesehatan berbasis web yang dirancang untuk membantu individu tetap bugar tanpa harus ke gym. Dengan fitur unggulan seperti tips olahraga berbasis AI, kalkulator kalori dan gizi, serta jadwal olahraga yang disesuaikan, WAH membuat perjalanan kebugaran menjadi lebih mudah, terarah, dan efisien.
 
-<img src="./path/to/banner-image.png" alt="WAH Banner" width="100%">
-
 ---
 
 ## 🌟 **Fitur Utama**
