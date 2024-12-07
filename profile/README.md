@@ -46,7 +46,7 @@ Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang c
 - [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 - <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="48" width="66" alt="java logo"  />
 - [![Google Oauth](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
-- ![Google Calendar API Badge](https://img.shields.io/badge/GoogleCalendarAPI-34A853?logo=google-calendar&logoColor=white)
+- [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 - ![Gemini API Badge](https://img.shields.io/badge/Gemini%20AI%20API-6F42C1?logo=https://your-logo-url.com/logo.png&logoColor=white)
 
 ### **Hosting & Deployment:**
