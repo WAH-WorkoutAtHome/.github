@@ -39,11 +39,11 @@ Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang c
 ## 👩‍💻 **Tech Stack**
 
 ### **Front-End:**
-- ![VanillaJS Badge](https://img.shields.io/badge/VanillaJS-F7DF1E?logo=javascript&logoColor=black)
-- ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white)
+- [![javaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [![Webpack](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)
 
 ### **Back-End:**
-- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+- [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 - <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="48" width="66" alt="java logo"  />
 - [![Google Oauth](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 - ![Google Calendar API Badge](https://img.shields.io/badge/GoogleCalendarAPI-34A853?logo=google-calendar&logoColor=white)
