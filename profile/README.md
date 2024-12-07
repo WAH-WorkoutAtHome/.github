@@ -48,6 +48,7 @@ Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang c
 - ![Google OAuth Badge](https://img.shields.io/badge/GoogleOAuth-4285F4?logo=google&logoColor=white)
 - ![Google Calendar API Badge](https://img.shields.io/badge/GoogleCalendarAPI-34A853?logo=google-calendar&logoColor=white)
 - ![Gemini API Badge](https://img.shields.io/badge/Gemini%20AI%20API-6F42C1?logo=https://your-logo-url.com/logo.png&logoColor=white)
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### **Hosting & Deployment:**
 - ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
