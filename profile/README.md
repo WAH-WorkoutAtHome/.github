@@ -52,7 +52,7 @@ Back-end berbasis Node.js dan Hapi.js untuk mendukung layanan RESTful API yang c
 
 ### **Hosting & Deployment:**
 - [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-- ![Niagahoster Badge](https://img.shields.io/badge/Niagahoster-0073E6?logo=niagahoster&logoColor=white)
+- <img src="https://rec-data.kalibrr.com/www.kalibrr.com/logos/5JD7ET9AGZK25M8F54GX5QUJLTDAHGL3BK9V7RMT-5d53c900.png" height="48" width="48" alt="niagahoster"  />
 
 ---
 
